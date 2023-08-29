@@ -1,16 +1,47 @@
-### Hi there 👋
+<h2 align="left">Helo 👾 ! <br>
+My name is Caroline Fabri and I'm a Full Stack Developer 💻 </h2>
 
-<!--
-**Carolinefabri/Carolinefabri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<div align="center">
+  <img align="right" height="150" src="https://i.makeagif.com/media/6-20-2018/hH5G05.gif"  />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">✨ Creating bugs since 2023 <br>📚 Constantly embracing new technologies and learning ...🎯 <br>
+
+###
+
+<h2 align="left">I code with</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://www.martincap.io/images/icons/devicon/java/java-original.svg" height="30" alt="java logo"  />
+  <img width="12" />
+  <img src="https://devicon-website.vercel.app/api/angularjs/original.svg" height="30" alt="angular logo"  />
+</div>
+
+###
+
+<blockquote align="left">
+  <p>"Programming is not just about code, but about solving problems and empowering people." - Taylor Otwell</p>
+
+
+![Snake Game](https://github.com/Carolinefabri/Carolinefabri/raw/main/snake_game.gif)
