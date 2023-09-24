@@ -1,5 +1,5 @@
 <h2 align="left">Hello 👾 ! <br></h2>
-<h3>My name is Caroline Fabri and I'm a Cloud Full Stack Developer 💻 ☁️ </h3>
+<h3>My name is Caroline Fabri <br> I'm a Cloud Full Stack Developer 💻 ☁️ </h3>
 
 ###
 
