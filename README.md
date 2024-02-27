@@ -22,9 +22,7 @@
 <h2 align="left">I code with</h2>
 
 ###
-<script type="module">
-  import "@ui5/webcomponents-icons-tnt" from "https://cdn.jsdelivr.net/npm/@ui5/webcomponents-icons-tnt@1.22.0/+esm";
-</script>
+
 
 
 <div align="left">
@@ -42,7 +40,7 @@
    <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
-  <img src="data:image/svg+xml;charset=utf-8;base64, <base64_do_icone_do_sapui5>" height="30" alt="SAPUI5 logo" />
+
 
 
 
