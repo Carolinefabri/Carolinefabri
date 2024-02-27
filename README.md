@@ -38,6 +38,10 @@
    <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
+  <script type="module">
+  import "@sapui5/sap.ui.comp" from "https://cdn.jsdelivr.net/npm/@sapui5/sap.ui.comp@1.121.0/+esm";
+</script>
+
 
 
 
